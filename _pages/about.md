@@ -29,4 +29,6 @@ latest_posts:
 
 Testing.
 
-I am a final-year PhD candidate @ Cambridge (Engineering Department), currently interning @ Apple Research (Cambridge). During my PhD, I developed advanced optical imaging techniques and novel algorithmic and low-level vision pipelines for high-speed scientific imaging (up to 200,000 fps) of hydrogen flames in aero-engines.
+I am a final-year PhD candidate @ Cambridge (Engineering Department), currently wrapping up my internship @ Apple Research (Cambridge). In my internship, I implemented and prototyped novel algorithms for exposure control in consumer cameras.
+
+During my PhD, I developed advanced optical imaging techniques and novel algorithmic and low-level vision pipelines for high-speed scientific imaging (up to 200,000 fps) of hydrogen flames in aero-engines. 
