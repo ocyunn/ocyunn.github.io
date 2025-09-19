@@ -27,6 +27,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a final-year PhD candidate @ Cambridge (Engineering Department), currently wrapping up my internship @ Apple Research (Cambridge). In my internship, I implemented and prototyped novel algorithms for computational photography using deep learning.
+I am a final-year PhD candidate in Computational Imaging @ Cambridge (Engineering Department), currently wrapping up my internship @ Apple Research (Cambridge). As an intern in the Video Engineering Team, I design and prototype novel algorithms for computational photography using deep learning.
 
-During the course of my PhD, my time was split between development of advanced optical imaging and specotroscopic techniques (1/3), and novel algorithmic and low-level vision pipelines (2/3) for high-speed scientific imaging (up to 200,000 fps) of reacting flows at both atmospheric and extreme high-pressure conditions.
+During the course of my PhD, my time was split between the development of advanced optical imaging and spectroscopic techniques (1/3), and novel algorithmic and low-level vision pipelines (2/3) for high-speed scientific imaging (up to 200,000 fps) of reacting flows.
