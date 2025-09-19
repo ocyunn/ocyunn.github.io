@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Cambridge, Cambridgeshire, United Kingdom
 
 profile:
   align: right
@@ -27,8 +27,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Testing.
+I am a final-year PhD candidate @ Cambridge (Engineering Department), currently wrapping up my internship @ Apple Research (Cambridge). In my internship, I implemented and prototyped novel algorithms for computational photography using deep learning.
 
-I am a final-year PhD candidate @ Cambridge (Engineering Department), currently wrapping up my internship @ Apple Research (Cambridge). In my internship, I implemented and prototyped novel algorithms for exposure control in consumer cameras.
-
-During my PhD, I developed advanced optical imaging techniques and novel algorithmic and low-level vision pipelines for high-speed scientific imaging (up to 200,000 fps) of hydrogen flames in aero-engines. 
+During the course of my PhD, my time was split between development of advanced optical imaging and specotroscopic techniques (1/3), and novel algorithmic and low-level vision pipelines (2/3) for high-speed scientific imaging (up to 200,000 fps) of reacting flows at both atmospheric and extreme high-pressure conditions.
