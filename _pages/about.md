@@ -6,7 +6,7 @@ subtitle: Cambridge, Cambridgeshire, United Kingdom
 
 profile:
   align: right
-  image: oc_pic.jpeg
+  image: rhino.png
   image_circular: false # crops the image to make it circular
   more_info: 
 
